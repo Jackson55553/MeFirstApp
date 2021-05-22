@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyFirstApp</string>
+    <string name="button">click me</string>
+    <string name="text">Hello world</string>
+    <string name="name">NAME</string>
+    <string name="check">click here</string>
+    <string name="switch12">switch</string>
+</resources>
