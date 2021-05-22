@@ -1,4 +1,4 @@
-кенpackage com.example.myfirstapp;
+package com.example.myfirstapp;
 
 import androidx.appcompat.app.AppCompatActivity;
 
